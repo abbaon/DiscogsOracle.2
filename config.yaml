@@ -1,0 +1,8 @@
+result_per_page: 100
+inventory_base_url: 'https://api.discogs.com/users/PaceMusic/inventory?status=for sale&per_page={page}'
+orders_base_url: 'https://api.discogs.com//marketplace/orders?status={status}'
+discogs_token: 'UppVWOoinWzuYnUtEVFJYFLCeYwYkkdmLEhWQRSo'
+base_inv_fname: 'inventario_'
+base_lbtuple_fname: 'coppie_lid_bcode_'
+
+inventory_root: 'inventario_'

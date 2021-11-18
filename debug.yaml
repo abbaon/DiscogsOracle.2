@@ -1,0 +1,4 @@
+debug_level: 'DEBUG'
+debug_log: ''
+log_file: ''
+logging_format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
